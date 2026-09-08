@@ -66,11 +66,3 @@ Participo diretamente da:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@pauloferreiracs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloferreiracs/)
 
 </div>
-
----
-
-<div align="center">
-
-**Aprendendo, construindo e buscando resolver problemas reais com tecnologia.**
-
-</div>
